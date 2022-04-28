@@ -20,7 +20,7 @@
 		186E1E4C2810811400E1EA3E /* City.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186E1E4B2810811400E1EA3E /* City.swift */; };
 		186E1E4E281082F300E1EA3E /* citiesData.json in Resources */ = {isa = PBXBuildFile; fileRef = 186E1E4D281082F300E1EA3E /* citiesData.json */; };
 		1875087F281298690026B627 /* LogoWaves.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1875087E281298690026B627 /* LogoWaves.swift */; };
-		18C0F7CC280F25C6001DFD19 /* RestaurantRowApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C0F7CB280F25C6001DFD19 /* RestaurantRowApp.swift */; };
+		18C0F7CC280F25C6001DFD19 /* RestaurantsInApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C0F7CB280F25C6001DFD19 /* RestaurantsInApp.swift */; };
 		18C0F7CE280F25C6001DFD19 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C0F7CD280F25C6001DFD19 /* ContentView.swift */; };
 		18C0F7D3280F25C7001DFD19 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18C0F7D2280F25C7001DFD19 /* Preview Assets.xcassets */; };
 		18C0F7DA280F2CDF001DFD19 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C0F7D9280F2CDF001DFD19 /* CircleImage.swift */; };
@@ -50,8 +50,8 @@
 		186E1E4B2810811400E1EA3E /* City.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = City.swift; sourceTree = "<group>"; };
 		186E1E4D281082F300E1EA3E /* citiesData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = citiesData.json; sourceTree = "<group>"; };
 		1875087E281298690026B627 /* LogoWaves.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoWaves.swift; sourceTree = "<group>"; };
-		18C0F7C8280F25C6001DFD19 /* RestaurantRow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RestaurantRow.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		18C0F7CB280F25C6001DFD19 /* RestaurantRowApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantRowApp.swift; sourceTree = "<group>"; };
+		18C0F7C8280F25C6001DFD19 /* RestaurantsIn.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RestaurantsIn.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		18C0F7CB280F25C6001DFD19 /* RestaurantsInApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantsInApp.swift; sourceTree = "<group>"; };
 		18C0F7CD280F25C6001DFD19 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		18C0F7D2280F25C7001DFD19 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		18C0F7D9280F2CDF001DFD19 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
@@ -111,7 +111,7 @@
 		18C0F7BF280F25C6001DFD19 = {
 			isa = PBXGroup;
 			children = (
-				18C0F7CA280F25C6001DFD19 /* RestaurantRow */,
+				18C0F7CA280F25C6001DFD19 /* RestaurantsIn */,
 				18C0F7C9280F25C6001DFD19 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -119,15 +119,15 @@
 		18C0F7C9280F25C6001DFD19 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				18C0F7C8280F25C6001DFD19 /* RestaurantRow.app */,
+				18C0F7C8280F25C6001DFD19 /* RestaurantsIn.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		18C0F7CA280F25C6001DFD19 /* RestaurantRow */ = {
+		18C0F7CA280F25C6001DFD19 /* RestaurantsIn */ = {
 			isa = PBXGroup;
 			children = (
-				18C0F7CB280F25C6001DFD19 /* RestaurantRowApp.swift */,
+				18C0F7CB280F25C6001DFD19 /* RestaurantsInApp.swift */,
 				18C0F7E3280F42AB001DFD19 /* Views */,
 				18558150281025B500D2E802 /* Restaurants */,
 				18C0F7E4280F42CD001DFD19 /* Model */,
@@ -136,7 +136,7 @@
 				18C0F7D1280F25C7001DFD19 /* Preview Content */,
 				18F3CD9D281195AE00798593 /* Assets.xcassets */,
 			);
-			path = RestaurantRow;
+			path = RestaurantsIn;
 			sourceTree = "<group>";
 		};
 		18C0F7D1280F25C7001DFD19 /* Preview Content */ = {
@@ -179,9 +179,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		18C0F7C7280F25C6001DFD19 /* RestaurantRow */ = {
+		18C0F7C7280F25C6001DFD19 /* RestaurantsIn */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 18C0F7D6280F25C7001DFD19 /* Build configuration list for PBXNativeTarget "RestaurantRow" */;
+			buildConfigurationList = 18C0F7D6280F25C7001DFD19 /* Build configuration list for PBXNativeTarget "RestaurantsIn" */;
 			buildPhases = (
 				18C0F7C4280F25C6001DFD19 /* Sources */,
 				18C0F7C5280F25C6001DFD19 /* Frameworks */,
@@ -191,9 +191,9 @@
 			);
 			dependencies = (
 			);
-			name = RestaurantRow;
+			name = RestaurantsIn;
 			productName = RestaurantRow;
-			productReference = 18C0F7C8280F25C6001DFD19 /* RestaurantRow.app */;
+			productReference = 18C0F7C8280F25C6001DFD19 /* RestaurantsIn.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -211,7 +211,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 18C0F7C3280F25C6001DFD19 /* Build configuration list for PBXProject "RestaurantRow" */;
+			buildConfigurationList = 18C0F7C3280F25C6001DFD19 /* Build configuration list for PBXProject "RestaurantsIn" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -224,7 +224,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				18C0F7C7280F25C6001DFD19 /* RestaurantRow */,
+				18C0F7C7280F25C6001DFD19 /* RestaurantsIn */,
 			);
 		};
 /* End PBXProject section */
@@ -259,7 +259,7 @@
 				1855814E281023BD00D2E802 /* FavoriteButton.swift in Sources */,
 				18C0F7DC280F3004001DFD19 /* MapView.swift in Sources */,
 				186E1E482810807B00E1EA3E /* CityRow.swift in Sources */,
-				18C0F7CC280F25C6001DFD19 /* RestaurantRowApp.swift in Sources */,
+				18C0F7CC280F25C6001DFD19 /* RestaurantsInApp.swift in Sources */,
 				1855814A2810083800D2E802 /* NewYorkRestaurantList.swift in Sources */,
 				18C0F7DA280F2CDF001DFD19 /* CircleImage.swift in Sources */,
 				186E1E4628107D5200E1EA3E /* CityList.swift in Sources */,
@@ -450,7 +450,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		18C0F7C3280F25C6001DFD19 /* Build configuration list for PBXProject "RestaurantRow" */ = {
+		18C0F7C3280F25C6001DFD19 /* Build configuration list for PBXProject "RestaurantsIn" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				18C0F7D4280F25C7001DFD19 /* Debug */,
@@ -459,7 +459,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		18C0F7D6280F25C7001DFD19 /* Build configuration list for PBXNativeTarget "RestaurantRow" */ = {
+		18C0F7D6280F25C7001DFD19 /* Build configuration list for PBXNativeTarget "RestaurantsIn" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				18C0F7D7280F25C7001DFD19 /* Debug */,

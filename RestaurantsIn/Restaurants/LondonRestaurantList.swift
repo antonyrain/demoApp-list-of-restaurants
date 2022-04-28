@@ -1,8 +1,8 @@
 //
 //  LondonRestaurantList.swift
-//  RestaurantRow
+//  RestaurantsIn
 //
-//  Created by Anton R on 21.04.2022.
+//  Created by Antony Rain on 21.04.2022.
 //
 
 import SwiftUI

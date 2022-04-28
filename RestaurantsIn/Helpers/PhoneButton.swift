@@ -1,8 +1,8 @@
 //
 //  PhoneButton.swift
-//  RestaurantRow
+//  RestaurantsIn
 //
-//  Created by Anton R on 22.04.2022.
+//  Created by Antony Rain on 22.04.2022.
 //
 
 import SwiftUI

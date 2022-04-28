@@ -1,8 +1,8 @@
 //
 //  Restauran.swift
-//  RestaurantRow
+//  RestaurantsIn
 //
-//  Created by Anton R on 19.04.2022.
+//  Created by Antony Rain on 19.04.2022.
 //
 
 import Foundation

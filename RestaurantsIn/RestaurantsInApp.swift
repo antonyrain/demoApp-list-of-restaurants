@@ -1,14 +1,14 @@
 //
-//  RestaurantRowApp.swift
-//  RestaurantRow
+//  RestaurantsInApp.swift
+//  RestaurantsIn
 //
-//  Created by Anton R on 19.04.2022.
+//  Created by Antony Rain on 19.04.2022.
 //
 
 import SwiftUI
 
 @main
-struct RestaurantRowApp: App {
+struct RestaurantsInApp: App {
     @StateObject private var modelData = ModelData()
     var body: some Scene {
         WindowGroup {

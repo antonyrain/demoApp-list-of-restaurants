@@ -1,18 +1,17 @@
 //
 //  Detail.swift
-//  RestaurantRow
+//  RestaurantsIn
 //
-//  Created by Anton R on 20.04.2022.
+//  Created by Antony Rain on 20.04.2022.
 //
 
 import SwiftUI
 
-struct ParisRestaurantDetail: View {
+struct LondonRestaurantDetail: View {
     @EnvironmentObject var modelData: ModelData
     var restaurant: Restaurant
-    
     var restaurantIndex: Int {
-        modelData.parisRestaurants.firstIndex(where:{$0.id == restaurant.id})!
+        modelData.londonRestaurants.firstIndex(where:{$0.id == restaurant.id})!
     }
     
     var body: some View {
@@ -27,7 +26,7 @@ struct ParisRestaurantDetail: View {
                 HStack{
                     Text(restaurant.name)
                         .font(.title)
-                    FavoriteButton(isSet:$modelData.parisRestaurants[restaurantIndex]
+                    FavoriteButton(isSet:$modelData.londonRestaurants[restaurantIndex]
                         .isFavorite)
                     .padding(.leading, 10)
                     Spacer()
@@ -69,11 +68,11 @@ struct ParisRestaurantDetail: View {
     }
 }
 
-struct ParisRestaurantDetail_Previews: PreviewProvider {
+struct LondonRestaurantDetail_Previews: PreviewProvider {
     static let modelData = ModelData()
     
     static var previews: some View {
-        ParisRestaurantDetail(restaurant: modelData.parisRestaurants[0])
+        LondonRestaurantDetail(restaurant: modelData.londonRestaurants[0])
             .environmentObject(modelData)
     }
 }
