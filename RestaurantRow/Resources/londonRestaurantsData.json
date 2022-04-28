@@ -1,0 +1,230 @@
+[
+    {
+        "name": "Aqua Shard",
+        "category": "Restaurant",
+        "cuisine": "British",
+        "city": "London",
+        "zipCode": "SE1 9RY",
+        "address": "31 St Thomas St",
+        "state": "GB",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -0.086616,
+            "latitude": 51.504561
+        },
+        "phone": "020 3011 1256",
+        "description": "Aqua’s low-lit restaurant on Level 31 of the Shard is at just the right height for visitors who want to really appreciate London’s riverside cityscape. By day, the views stretch from Tower Bridge to the London Eye and beyond; at night, you can see the lights reflected on the water below. Stop by the dining room for a raft of contemporary British flavours, or the more casual lounge space for a spot of afternoon tea.",
+        "imageName": "aqua"
+    },
+    {
+        "name": "Boundary Rooftop",
+        "category": "Restaurant",
+        "cuisine": "British",
+        "city": "London",
+        "zipCode": "E2 7DD",
+        "address": "2-4 Boundary Street",
+        "state": "GB",
+        "id": 1002,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -0.102681,
+            "latitude": 51.523382
+        },
+        "phone": "(000) 000-0000",
+        "description": "Boundary is no City skyscraper, but its bar and grill provide a year-round roof space tailor-made for whiling away a pleasant few hours. Soak up some rays on the terrace or get cosy under the weatherproof pergola in winter; otherwise, order from a menu of Mediterranean small plates and act like you’re on hols among the pretty citrus trees and twinkling lights.",
+        "imageName": "rooftop"
+    },
+    {
+        "name": "City Social",
+        "category": "Restaurant",
+        "cuisine": "British",
+        "city": "London",
+        "zipCode": "EC2N 1HQ",
+        "address": "25 Old Broad Street",
+        "state": "GB",
+        "id": 1003,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -0.083993,
+            "latitude": 51.515264
+        },
+        "phone": "000-000-0000",
+        "description": "Up on the twenty-fourth floor of Tower 42, Jason Atherton’s high-rise City outpost is another of those swanky establishments that the all-conquering restaurateur does so well. During the week you may be overwhelmed by about boozy business hordes, but that’s a small price to pay for such all-enveloping wraparound views of the metropolis – bag one of the covetable booths if possible.",
+        "imageName": "social"
+    },
+    {
+        "name": "Coppa Clubcoppa",
+        "category": "Restaurant",
+        "cuisine": "British",
+        "city": "London",
+        "zipCode": "EC3R 6AH",
+        "address": "Lower Thames Street",
+        "state": "GB",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -0.079587,
+            "latitude": 51.508222
+        },
+        "phone": "(212) 262-8880",
+        "description": "Boasting one of the biggest riverside terraces in London, Coppa Club occupies a prime spot with Tower Bridge in near-sight and The Shard just opposite. Whether you’re in the restaurant, café or central bar, the tall windows mean you can soak up the view even when it’s too chilly for alfresco. To eat? Sourdough pizzas, pastas and grills.",
+        "imageName": "coppa"
+    },
+    {
+        "name": "Darwin Brasserie",
+        "category": "Restaurant",
+        "cuisine": "British",
+        "city": "London",
+        "zipCode": "EC3M 3BY",
+        "address": "20 Fenchurch Street",
+        "state": "GB",
+        "id": 1005,
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -0.083594,
+            "latitude": 51.511295
+        },
+        "phone": "(000) 000-0000",
+        "description": "Near the top of the Walkie Talkie, this all-day brasserie promises jawdropping views of London – and it’s much quicker to book a table here than wait for your turn in the Sky Garden itself. The menu offers the sort of accomplished dishes you find in high-end business hotels but do expect to pay through the nose for the privilege of admiring the cityscape.",
+        "imageName": "becco"
+    },
+    {
+        "name": "Mezemiso",
+        "category": "Restaurant",
+        "cuisine": "British",
+        "city": "London",
+        "zipCode": "SE1 7SP",
+        "address": "10-11 Albert Embankment",
+        "state": "GB",
+        "id": 1006,
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -0.121321,
+            "latitude": 51.491839
+        },
+        "phone": "44 (020) 3146 0388",
+        "description": "The Crowne Plaza hotel's terrace restaurant. Stop in here, on the fifteenth floor, for Lebanese Japanese fusion food, brews and views.",
+        "imageName": "mezemiso"
+    },
+    {
+        "name": "Duck & Waffle",
+        "category": "Restaurant",
+        "cuisine": "British",
+        "city": "London",
+        "zipCode": "EC2N 4AY",
+        "address": "110 Bishopsgate",
+        "state": "GB",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -0.080989,
+            "latitude": 51.516279
+        },
+        "phone": "0203 640 7310",
+        "description": "High up on the fortieth floor of Heron Tower, Duck & Waffle wins the prize for the most alarmingly close-up views of the Gherkin imaginable. Diners wander around the glass-panelled dining room to gawp at the panorama – and that’s before we remind you of D&W’s 24/7 opening and its artery-taunting gastronomic indulgences.",
+        "imageName": "duck"
+    },
+    {
+        "name": "Fenchurch Restaurant",
+        "category": "Restaurant",
+        "cuisine": "British",
+        "city": "London",
+        "zipCode": "EC3M 3BY",
+        "address": "20 Fenchurch St",
+        "state": "GB",
+        "id": 1008,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -0.083594,
+            "latitude": 51.511295
+        },
+        "phone": "(000) 000-0000",
+        "description": "At the summit of the Walkie Talkie’s greenhouse on steroids, Sky Garden’s cloud-gazing flagship restaurant comes complete with amazing views of the city, day or night. With vistas like these, the kitchen can’t help but pull in the punters, although it responds in style with upscale dishes, tasting menus and a stellar wine cellar.",
+        "imageName": "fenchurch"
+    },
+    {
+        "name": "Galvin at Windows",
+        "category": "Restaurant",
+        "cuisine": "British",
+        "city": "London",
+        "zipCode": "W1K 1BE",
+        "address": "28th floor Park Lane",
+        "state": "GB",
+        "id": 1009,
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -0.150152,
+            "latitude": 51.505597
+        },
+        "phone": "020 3641 7980",
+        "description": "Chris Galvin’s Michelin-starred gaff on the twenty-eighth floor of the view-tastic London Hilton Park Lane is part of the old guard, and can sometimes get overlooked in favour of shinier, more misshapen newcomers. However, it’s a doozy if you want to treat out-of-towners to a meal with a view – especially as the fancy-pants French-inflected menu gets it just right.",
+        "imageName": "galvin"
+    },
+    {
+        "name": "Rick Stein",
+        "category": "Restaurant",
+        "cuisine": "British",
+        "city": "London",
+        "zipCode": "SW148SN",
+        "address": "125 Mortlake High Street",
+        "state": "GB",
+        "id": 1010,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -0.256721,
+            "latitude": 51.470593
+        },
+        "phone": "(000) 000-0000",
+        "description": "Is there a better view of the sunset over the Thames than the one at Rick Stein’s first London venture, in sleepy Barnes? I doubt it. Do ask for a window seat when you book. Either way, the atmosphere here is relaxed and expectant; the clientele mainly grey-haired and well-heeled. Staff range from adept and efficient to young and keen. It all makes for a lovely experience.",
+        "imageName": "stein"
+    },
+    {
+        "name": "Smiths of Smithfield",
+        "category": "Restaurant",
+        "cuisine": "British",
+        "city": "London",
+        "zipCode": "EC1M 6HJ",
+        "address": "67-77 Charterhouse St",
+        "state": "GB",
+        "id": 1011,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -0.102783,
+            "latitude": 51.519544
+        },
+        "phone": "(000) 000-0000",
+        "description": "This multi-level food and drink hub next to Smithfield Market was relaunched by Young’s pub group, and it now has a swish top-floor restaurant with lovely views of St Paul’s, The Shard and beyond. It’s proper fine-dining on the breezy outdoor terrace, and most of the meat on the British menu comes from the adjacent market. For that reason, we say order the steak while you enjoy the view.",
+        "imageName": "smiths"
+    },
+    {
+        "name": "Swan at the Globe",
+        "category": "Restaurant",
+        "cuisine": "British",
+        "city": "London",
+        "zipCode": "SE1 9DT",
+        "address": "21 New Globe Walk",
+        "state": "GB",
+        "id": 1012,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -0.096622,
+            "latitude": 51.508098
+        },
+        "phone": "020 7928 9444",
+        "description": "It’s not sky-high, but The Swan nevertheless has great views – provided you bag a table near the windows. The Thames and St Paul’s take pride of place, although the beauty of this venue is its inclusiveness: you get clear sight of the riverside highlights, but also feel part of the bustling walkway. There’s a bang-on Brit-accented menu too.",
+        "imageName": "swan"
+    }
+]

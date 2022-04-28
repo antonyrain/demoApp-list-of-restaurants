@@ -1,0 +1,230 @@
+[
+    {
+        "name": "Barbetta",
+        "category": "Restaurant",
+        "cuisine": "Italian",
+        "city": "New York",
+        "zipCode": "10036",
+        "address": "321 W 46th St",
+        "state": "NY",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -73.988891,
+            "latitude": 40.760336
+        },
+        "phone": "(212) 246-9172",
+        "description": "Barbetta, Since 1906, is the oldest restaurant in New York that is still owned by the family that founded it. Barbetta is also the oldest Italian restaurant in New York, and the oldest restaurant in New York's Theatre District. This three-fold distinction makes this historic restaurant a landmark among New York restaurants. Barbetta is now owned by his daughter, Laura Maioglio.",
+        "imageName": "barbetta"
+    },
+    {
+        "name": "Bareburger",
+        "category": "Restaurant",
+        "cuisine": "Burgers",
+        "city": "New York",
+        "zipCode": "10036",
+        "address": "366 W 46th St",
+        "state": "NY",
+        "id": 1002,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -73.990360,
+            "latitude": 40.760562
+        },
+        "phone": "(212) 673-2273",
+        "description": "Bareburger serves food made from quality, organic ingredients in eco-friendly restaurants, where tables are crafted from salvaged lumber and ceilings are made from recycled tin. Burgers on the menu include options like elk, ostrich and wild boar, and are made from organic or all-natural meats. Beef and bison patties come from grass-fed animals, and the chicken, turkey and eggs are cage free.",
+        "imageName": "burger"
+    },
+    {
+        "name": "Jasmine's Caribean",
+        "category": "Restaurant",
+        "cuisine": "Caribbean",
+        "city": "New York",
+        "zipCode": "10036",
+        "address": "371 W 46th St",
+        "state": "NY",
+        "id": 1003,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -73.990231,
+            "latitude": 40.761005
+        },
+        "phone": "646-964-5337",
+        "description": "Catch a breeze and escape to the Caribbean from the middle of Restaurant Row, with savory dishes and fruit filled blends of cocktails inspired by islands throughout the Caribbean. Jasmine's Caribbean Cuisine specializes in delectable cuisine hailing from Dominica, Antigua, St. Thomas, Trinidad, and Jamaica. These recipes have been cultivated out of love generation after generation in the Jasmine's family.",
+        "imageName": "jasmine"
+    },
+    {
+        "name": "Sushi Seki",
+        "category": "Restaurant",
+        "cuisine": "Japanese",
+        "city": "New York",
+        "zipCode": "10036",
+        "address": "365 W 46th St",
+        "state": "NY",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -73.990082,
+            "latitude": 40.760938
+        },
+        "phone": "(212) 262-8880",
+        "description": "Known for acclaimed Chef Seki’s innovative approach to sushi, the newest Sushi Seki location is already becoming a staple in the theater community. Hint: Inquire about the Sake Club, Sushi Seki’s program which aims to teach members about different kinds of sake.",
+        "imageName": "sushi"
+    },
+    {
+        "name": "Becco",
+        "category": "Restaurant",
+        "cuisine": "Italian",
+        "city": "New York",
+        "zipCode": "10036",
+        "address": "355 W 46th St",
+        "state": "NY",
+        "id": 1005,
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -73.989815,
+            "latitude": 40.760826
+        },
+        "phone": "(212) 397-7597",
+        "description": "The name Becco is derived from the Italian verb, beccare, which means to peck, nibble or savor something in a discriminating way. Lidia Bastianich & her son, Joe, opened Becco in 1993 & since then, it has been providing the New York community with outstanding service for over 20 years.",
+        "imageName": "becco"
+    },
+    {
+        "name": "Joe Allen",
+        "category": "Restaurant",
+        "cuisine": "American",
+        "city": "New York",
+        "zipCode": "10036",
+        "address": "326 W 46th St",
+        "state": "NY",
+        "id": 1006,
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -73.989129,
+            "latitude": 40.760045
+        },
+        "phone": "(212) 581-6464",
+        "description": "In May, 1965, Joe Allen opened the restaurant that bears his name. That same year, the cast of the ill-fated show Kelly gave Joe a poster of their show. It ran one performance, and they thought it should hang, well, somewhere. Since then, it's become a Broadway tradition for those unlucky flops to adorn the walls of Joe Allen.",
+        "imageName": "joeallen"
+    },
+    {
+        "name": "Le Rivage",
+        "category": "Restaurant",
+        "cuisine": "French & Belgian",
+        "city": "New York",
+        "zipCode": "10036",
+        "address": "340 W 46th St",
+        "state": "NY",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -73.989565,
+            "latitude": 40.760228
+        },
+        "phone": "(212) 765-7374",
+        "description": "Longtime French bistro serving classic fare from fixed-price menus in an old-world, rustic setting.",
+        "imageName": "rivage"
+    },
+    {
+        "name": "Bar Dough",
+        "category": "Restaurant",
+        "cuisine": "Pizza",
+        "city": "New York",
+        "zipCode": "10036",
+        "address": "350 W 46th St",
+        "state": "NY",
+        "id": 1008,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -73.989860,
+            "latitude": 40.760352
+        },
+        "phone": "(917) 262-0543",
+        "description": "BarDough's thin crust pizzas are made in an authentic fired brick oven and each pizza is paired with a specialty cocktail. Whether you're going for lunch, pre- or post-theater dinner, or just an evening out to relax and sip your favorite cocktail, they promise to provide you with a warm, inviting and unique dining experience.",
+        "imageName": "dough"
+    },
+    {
+        "name": "Tito Murphy's",
+        "category": "Restaurant",
+        "cuisine": "Mexican",
+        "city": "New York",
+        "zipCode": "10036",
+        "address": "346 W 46th St",
+        "state": "NY",
+        "id": 1009,
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -73.989781,
+            "latitude": 40.760319
+        },
+        "phone": "(212) 245-2030",
+        "description": "Tito Murphy’s is a lively cantina offering authentic Mexican Cuisine in the heart of the Theatre District on Restaurant Row. It’s the perfect location to enjoy fresh authentic food, amazing drinks and a great atmosphere.  Outdoor Dining options for the Front Street Cafe as well as the Rooftop Patio are both heated, and they welcome guests to enjoy their Al Fresco dining!",
+        "imageName": "tito"
+    },
+    {
+        "name": "Swing 46",
+        "category": "Restaurant",
+        "cuisine": "American",
+        "city": "New York",
+        "zipCode": "10036",
+        "address": "349 W 46th St",
+        "state": "NY",
+        "id": 1010,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -73.989661,
+            "latitude": 40.760762
+        },
+        "phone": "(212) 262-9554",
+        "description": "Swing 46's menu is traditional American Fare with a Modern twist, each dish is carefully prepared using only the freshest ingredients. Everything is homemade, all the sauces, all the dressings and even the bread is baked fresh daily! Enjoy live swing music with your meal.",
+        "imageName": "swing"
+    },
+    {
+        "name": "Lattanzi",
+        "category": "Restaurant",
+        "cuisine": "Italian",
+        "city": "New York",
+        "zipCode": "10036",
+        "address": "361 W 46th St",
+        "state": "NY",
+        "id": 1011,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -73.989978,
+            "latitude": 40.760894
+        },
+        "phone": "(212) 315-0980",
+        "description": "This unique Italian Restaurant is a true classic on the famed Restaurant Row. Since 1984, family-owned Lattanzi has been recognized as one of New York's best and most authentic Italian Cuisine. Renowned for its Roman style specialties, spacious multi-level dining, private event spaces, as well as a patio garden & outside heated terrace.",
+        "imageName": "lattanzi"
+    },
+    {
+        "name": "Dim Sum Palace",
+        "category": "Restaurant",
+        "cuisine": "Chinese",
+        "city": "New York",
+        "zipCode": "10036",
+        "address": "334 W 46th St",
+        "state": "NY",
+        "id": 1012,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -73.989374,
+            "latitude": 40.760148
+        },
+        "phone": "(646) 861-1910",
+        "description": "Located on historic Restaurant Row, Dim Sum Palace boasts an Asian fusion menu that includes classics like har gow — a plump, translucent dumpling stuffed with shrimp — and top selling shumai and BBQ pork buns",
+        "imageName": "dimsum"
+    }
+]

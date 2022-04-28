@@ -1,0 +1,192 @@
+[
+    {
+        "name": "La Tour d'Argent",
+        "category": "Restaurant",
+        "cuisine": "Francais",
+        "city": "Paris",
+        "zipCode": "75005",
+        "address": "15 quai de la Tournelle",
+        "state": "FR",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 2.355064,
+            "latitude": 48.849775
+        },
+        "phone": "014 354 2331",
+        "description": "Hailed as the oldest restaurant in Paris, La Tour d'Argent opened in 1582 and was a favourite of English King Henry IV amongst many other nobles and celebrities worldwide.",
+        "imageName": "argent"
+    },
+    {
+        "name": "Pertinence",
+        "category": "Restaurant",
+        "cuisine": "Francais",
+        "city": "Paris",
+        "zipCode": "75007",
+        "address": "29 rue de l’Exposition",
+        "state": "FR",
+        "id": 1002,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 2.303440,
+            "latitude": 48.857073
+        },
+        "phone": "33 (014) 555 20 96",
+        "description": "Tucked down a discreet Left Bank street, this ultra-stylish spot is ideal for a hushed date-night dinner. Chefs Kwen Liew (ex-Antoine) and Ryunosuke Naito (ex-Meurice et Taillevent) never fail to dazzle the 18-seater room. Service is sweet, and the bill (justifiably) high.",
+        "imageName": "pertinence"
+    },
+    {
+        "name": "Le Jardin de Montreuil",
+        "category": "Restaurant",
+        "cuisine": "Francais",
+        "city": "Paris",
+        "zipCode": "93100",
+        "address": "1 rue du Sergent Godefroy",
+        "state": "FR",
+        "id": 1003,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 2.434841,
+            "latitude": 48.853304
+        },
+        "phone": "000-000-0000",
+        "description": "It may a little out the way, in Paris’s eastern suburb of Montreuil, but this cosy restaurant is well worth the trek. From the piano in the entrance through the dashing oil paintings to the two flower-filled hidden courtyards, you’d struggle to picture a homier setting (apart from maybe actual chez toi).",
+        "imageName": "jardin"
+    },
+    {
+        "name": "Le Bien Venu",
+        "category": "Restaurant",
+        "cuisine": "Francais",
+        "city": "Paris",
+        "zipCode": "9e",
+        "address": "23 rue Buffault",
+        "state": "FR",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 2.342168,
+            "latitude": 48.876161
+        },
+        "phone": "33 1 48 78 32 18",
+        "description": "For veggie-friendly Japanese cuisine in an especially snug, thoroughly tranquil setting, head to this restaurant at the back of Hôtel Bienvenue. The natural wine selection is, frankly, phenomenal. ",
+        "imageName": "bien"
+    },
+    {
+        "name": "Girafe",
+        "category": "Restaurant",
+        "cuisine": "Francais",
+        "city": "Paris",
+        "zipCode": "75016",
+        "address": "1 place du Trocadéro et du 11 Novembre",
+        "state": "FR",
+        "id": 1005,
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 2.290809,
+            "latitude": 48.862919
+        },
+        "phone": "01 40 62 70 61",
+        "description": "Proposal on the cards? This is that sort of place. As sexy as it comes, Girafe’s Joseph Dirand-designed interior is all marble and cream-hued banquettes, while outside pairs smart white tablecloths with old-style lamps and killer Eiffel Tower views. The menu puts fish and seafood front and centre. Time it right and you’ll catch the Iron Lady’s twinkling lights being turned on.",
+        "imageName": "girafe"
+    },
+    {
+        "name": "Caffè Stern",
+        "category": "Restaurant",
+        "cuisine": "Francais",
+        "city": "Paris",
+        "zipCode": "75002",
+        "address": "47 Passage des Panoramas",
+        "state": "FR",
+        "id": 1006,
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 2.341510,
+            "latitude": 48.870868
+        },
+        "phone": "000 000 0000",
+        "description": "There are few places more romantic – or more OMG-we’re-in-Paris – than the city’s passages couverts. This low-lit restaurant is hidden inside one of the prettiest, the Passage des Panoramas, and its décor is pleasingly out-there. Design star Philippe Stack’s diamond-bearing stuffed wolves are a highlight.",
+        "imageName": "stern"
+    },
+    {
+        "name": "L'Arpège",
+        "category": "Restaurant",
+        "cuisine": "Francais",
+        "city": "Paris",
+        "zipCode": "75007",
+        "address": "84 rue de Varenne",
+        "state": "FR",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 2.317168,
+            "latitude": 48.855731
+        },
+        "phone": "01 47 05 09 06",
+        "description": "Alain Passard’s three-starred restaurant is a sure-fire date-pleaser. Swallow the exceptionally high bill in the name of a simple, brilliant, palate-dazzling experience. A main course of sautéed free-range chicken with a roasted shallot, an onion, potato mousseline and pan juices is the epitome of comfort food.",
+        "imageName": "arpege"
+    },
+    {
+        "name": "Septime",
+        "category": "Restaurant",
+        "cuisine": "Francais",
+        "city": "Paris",
+        "zipCode": "75011",
+        "address": "80 rue de Charonne",
+        "state": "FR",
+        "id": 1008,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 2.380874,
+            "latitude": 48.853570
+        },
+        "phone": "(000) 000-0000",
+        "description": "Precise, creative Michelin-starred dining in stylish yet understated surrounds. The décor is thus: huge mirrors, industrial installations, antique flooring and furniture, reinforced concrete and bare wood. The cooking is direct, pure and serious.",
+        "imageName": "septime"
+    },
+    {
+        "name": "Dersou",
+        "category": "Restaurant",
+        "cuisine": "Francais",
+        "city": "Paris",
+        "zipCode": "75012",
+        "address": "21 rue Saint-Nicolas",
+        "state": "FR",
+        "id": 1009,
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 2.374633,
+            "latitude": 48.851400
+        },
+        "phone": "09 81 01 12 73",
+        "description": "Hidden in a small back-alley near Faubourg Saint-Antoine, Dersou is surprisingly calm considering its proximity to the chaos of Bastille. In the morning, there’s excellent coffee and the usual breakfast fare – cake, brioche, toast and cereal.",
+        "imageName": "dersou"
+    },
+    {
+        "name": "Shang Palace",
+        "category": "Restaurant",
+        "cuisine": "Chinese",
+        "city": "Paris",
+        "zipCode": "75016",
+        "address": "10 avenue d'Iéna",
+        "state": "FR",
+        "id": 1010,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 2.293420,
+            "latitude": 48.863717
+        },
+        "phone": "01 53 67 19 92",
+        "description": "As the only Michelin-starred Chinese restaurant in France, Shang Palace certainly doesn’t disappoint with its subtle Asian décor (think marble tables and a carpet patterned with a Hokusai print) and a vast menu of dishes from the Canton and Huaiyang regions of south-east China.",
+        "imageName": "shang"
+    }
+]
